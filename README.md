@@ -10,7 +10,7 @@ Because it allows others to copy and paste their code to replicate or research i
 - In order to create codeblocks in markdown you need to use three backticks (```)
 - Not to be confused with quotation (''')
 
-  ```
+```
   def factorial(n)
   if n == 0
     return 1
